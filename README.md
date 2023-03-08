@@ -1,8 +1,7 @@
 # wechatbot
-项目来源：https://github.com/djun/wechatbot
-代码接入chatgpt3.5版本，模型：gpt-3.5-turbo
+个人微信接入chatgpt3.5版本，模型：gpt-3.5-turbo
 
-最近chatGPT异常火爆，想到将其接入到个人微信是件比较有趣的事，所以有了这个项目。项目基于[openwechat](https://github.com/eatmoreapple/openwechat)
+项目基于[openwechat](https://github.com/eatmoreapple/openwechat)/[wechatbot](https://github.com/djun/wechatbot)
 开发
 ###目前实现了以下功能
  + 群聊@回复
